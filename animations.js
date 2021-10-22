@@ -251,6 +251,7 @@ window.animations = [
 	{ name: 'slowglow', author: 'shailzaa' },
 	{ name: 'smoke', author: 'chintanmshah' },
 	{ name: 'spaceup', author: 'Swayamsvk' },
+  { name: 'speedyIn', author: 'suyesha07'},
 	{ name: 'spider', author: 'laurelr2020' },
 	{ name: 'spinNeon', author: 'vaibhavrajsingh2001' },
 	{ name: 'spinning', author: 'lucas-barros' },
